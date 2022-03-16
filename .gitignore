@@ -5,3 +5,5 @@
 .vscode/settings.json
 /cypress/
 cypress.json
+test-results/
+playwright-report/
