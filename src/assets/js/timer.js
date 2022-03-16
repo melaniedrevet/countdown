@@ -1,7 +1,7 @@
 window.onload = function(){
 
-    var minutes = 00;
-    var secondes = 00;
+    var minutes = "00";
+    var secondes = "00";
 
     var getSecondes = document.getElementById("secondes");
     var getMinutes = document.getElementById("minutes");
