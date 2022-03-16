@@ -1,0 +1,23 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "js-lint": "eslint src/assets/js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.2",
+    "parcel": "^2.3.2",
+    "stylelint": "^14.5.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
+}
