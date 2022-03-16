@@ -3,3 +3,5 @@
 .parcel-cache
 /dist/
 .vscode/settings.json
+/cypress/
+cypress.json
