@@ -16,7 +16,7 @@ window.onload = function(){
         if(secondes <= 9){
             getSecondes.innerHTML = "0" + secondes;
         }
-        if(secondes >= 10){
+        if(secondes > 9){
             getSecondes.innerHTML = secondes;
         }
         if(secondes > 59){
